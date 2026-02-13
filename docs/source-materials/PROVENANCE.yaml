@@ -1,0 +1,32 @@
+schema_version: '1.0'
+repo: card-trade-social
+org: organvm-iii-ergon
+generated: '2026-02-13T03:33:56.906758+00:00'
+total_materials: 3
+materials:
+- filename: TCG Ecosystem Research and Growth.md
+  source_path: /Users/4jp/Workspace/card-trade-social/TCG Ecosystem Research and Growth.md
+  sha256: 123427db88d8e2e0c3fa8614bb3ad0317281892d2225af2c17a30c38dcef930c
+  size_bytes: 38759
+  last_modified: '2026-02-01T13:51:45.243718+00:00'
+  classification_rule: direct_repo_match
+  confidence: 1.0
+  target_subdir: docs/source-materials/theory/
+- filename: Theoretical Specifications_ Hydra Platform.md
+  source_path: /Users/4jp/Workspace/card-trade-social/Theoretical Specifications_
+    Hydra Platform.md
+  sha256: 8107167e9b186a1b2847dd9ec77b30686deb26d17c1c3213c2d1311eb1d408d6
+  size_bytes: 12909
+  last_modified: '2026-02-01T10:37:13.268917+00:00'
+  classification_rule: direct_repo_match
+  confidence: 1.0
+  target_subdir: docs/source-materials/theory/
+- filename: Title Revolutionizing the Trading Card Market.md
+  source_path: /Users/4jp/Workspace/card-trade-social/Title Revolutionizing the Trading
+    Card Market.md
+  sha256: ef3505037907fc489bc3156756816858e72a42db08626823dcb93a7382dfe38e
+  size_bytes: 95566
+  last_modified: '2026-02-01T10:05:35.438185+00:00'
+  classification_rule: direct_repo_match
+  confidence: 1.0
+  target_subdir: docs/source-materials/theory/
