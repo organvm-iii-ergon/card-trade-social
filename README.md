@@ -1,10 +1,11 @@
 # card-trade-social
 
-![CI](https://github.com/organvm-iii-ergon/card-trade-social/actions/workflows/ci.yml/badge.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Organ III](https://img.shields.io/badge/Organ-III--Ergon-orange.svg)
-![Status](https://img.shields.io/badge/Status-DESIGN__ONLY-lightgrey.svg)
-![Language](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)
+[![CI](https://github.com/organvm-iii-ergon/card-trade-social/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-iii-ergon/card-trade-social/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-iii-ergon/card-trade-social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-iii-ergon/card-trade-social/blob/main/LICENSE)
+[![Organ III](https://img.shields.io/badge/Organ-III%20Ergon-F59E0B)](https://github.com/organvm-iii-ergon)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-iii-ergon/card-trade-social)
+[![TypeScript](https://img.shields.io/badge/lang-TypeScript-informational)](https://github.com/organvm-iii-ergon/card-trade-social)
 
 **Hydra Trading Card Ecosystem is a vertical SaaS platform that treats trading cards as a legitimate asset class, combining Robinhood-style market intelligence, Patreon-style creator monetization, Duolingo-style gamification, and generative AI content creation into a single integrated experience for the $50B+ global TCG market.**
 
